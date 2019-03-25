@@ -1,0 +1,49 @@
+.test{
+   
+    flex-direction: column;
+    align-content: center;
+    background: rgb(225, 241, 129); 
+    margin-top: 50px;
+    border:1px solid;
+    width:400px;
+    height:450px;
+    margin-left: 300px;
+    
+}
+#te{
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.id2{
+    margin-left: 80px;
+}
+#ajout{
+    margin-left:10px;
+    width: 375px;
+}
+
+#lab{
+    width: 21px;
+}
+.des{
+    margin-right:10px;
+    margin-bottom: none;
+    margin-left: 350px;
+}
+
+
+#tes{
+    text-align: center;
+}
+#fil{
+    margin-left: 315px;
+}
+#form{
+    margin-left:90px;
+    width: 290px;
+}
+#erreur{
+    color: red;
+    margin-left: 170px;
+    font-size: 15px;
+}
